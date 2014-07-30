@@ -28,9 +28,6 @@ optional arguments:
   -v, --verbose         Turn on verbosity option.
 ```
 
-## Introduction
-RAILIN is a python toolkit for an automated amino acid side chain assignment from nuclear magnetic resonance frequencies. This problem can be formulated as linear assignment problem and solved by constrained optimization techniques. RAILIN uses a MAP (maximum aposteriori) classification approach to estimate the probability, that the resonance frequencies of each spin-system correspond to one of the 21 amino acids. Prior knowledge is provided by the protein primary structure. This amino acid sequence is used to formulate a constrained linear assignment problem, which in turn is solved using Integer Linear Programming. An integer programming problem is a mathematical optimization or feasibility program in which some or all of the variables are restricted to be integers. In many settings the term refers to integer linear programming (ILP), in which the objective function and the constraints (other than the integer constraints) are linear.  
-
 ## Installation
 ### Standard Installation
 #### Dependencies
