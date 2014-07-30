@@ -67,6 +67,3 @@ $ sudo apt-get install python-networkx
 2. Download and install the IBM ILOG CPLEX Optimizer:
 
 For testing purposes a trial version can be found [here](http://www14.software.ibm.com/webapp/download/search.jsp?pn=IBM+ILOG+CPLEX). For full functionality you need to register at ibm.com and get a licenced copy.
-
-## Development
-Documentation for developers can be found here.
